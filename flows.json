@@ -158,8 +158,8 @@
         "sqlquery": "msg.topic",
         "sql": "",
         "name": "Cistern",
-        "x": 620,
-        "y": 260,
+        "x": 520,
+        "y": 220,
         "wires": [
             [
                 "815405eab3e9e8fb"
@@ -229,7 +229,7 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1290,
+        "x": 690,
         "y": 220,
         "wires": []
     },
